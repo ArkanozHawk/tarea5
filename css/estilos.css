@@ -75,3 +75,26 @@
 #li #a:hover {
     background-color: #111;
 }
+#menu{
+height: 62px;
+width: 100%;
+background-color: #E6E6FA;
+padding: 15px;
+}
+#botones{
+margin: 0;
+padding-left: 14%;
+}
+body{
+
+    margin: 0;
+}
+
+#texto{
+
+    color: black;
+}
+
+a{
+    margin: 0;
+}
